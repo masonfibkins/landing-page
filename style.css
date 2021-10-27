@@ -1,0 +1,21 @@
+.section {
+    background-color:coral;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 100;
+}
+
+.footer{
+    background-color: blueviolet;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 100;
+}
+
+.header{
+    background-color: cornflowerblue;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+}
+
+
+
+
